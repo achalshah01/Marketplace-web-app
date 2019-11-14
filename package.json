@@ -1,0 +1,23 @@
+{
+  "name": "49er-2",
+  "version": "1.0.0",
+  "description": "49er Marketplace",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "marketplace",
+    "nodejs",
+    "express",
+    "mongo"
+  ],
+  "author": "achal shah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.3.13",
+    "urlencoded-parser": "^1.0.0"
+  }
+}
