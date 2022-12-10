@@ -15,7 +15,7 @@
   "author": "achal shah",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "express-session": "^1.17.0",
     "mongoose": "^5.3.13",
     "urlencoded-parser": "^1.0.0"
